@@ -1,0 +1,17 @@
+pandoc: 2.7.3
+pkgdown: 1.6.1
+pkgdown_sha: ~
+articles:
+  analyses/eight_schools: eight_schools.html
+  analyses/election_88: election_88.html
+  example_models: example_models.html
+  get_started: get_started.html
+  webpages/contribute: contribute.html
+  webpages/software: software.html
+  webpages/technical_details: technical_details.html
+  webpages/why_greta: why_greta.html
+last_built: 2021-05-20T04:34Z
+urls:
+  reference: https://greta-stats.org/reference
+  article: https://greta-stats.org/articles
+
